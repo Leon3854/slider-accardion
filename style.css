@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+}
+
+.slider {
+	width: 360px;
+	position: relative;
+	border: 1px solid #caccd1;
+	margin: 100px auto;
+	overflow: hidden;
+}
+
+.line {
+	position: relative;
+	height: 250px;
+	overflow: hidden;
+	left: 0;
+	transition: all ease 1s;
+}
+.slide {
+	height: 250px;
+	float: left;
+}
+
+.w168px {width: 168px;}
+.red {background-color: tomato;}
+.w250px {width: 250px;}
+.blue {background-color: blue;}
+.w80px {width: 80px;}
+.green {background-color: green;}
+.w280px{width: 280px;}
+.cyan{background-color: cyan;}
+.w150px {width: 150px;} 
+.yellow {background-color: yellow;}
+.w52px{width: 100px;} 
+.pink{background-color: pink;}
